@@ -1,0 +1,10 @@
+flask
+pymongo
+pandas
+nltk
+scipy
+transformers
+torch
+keybert
+sentencepiece
+sacremoses
